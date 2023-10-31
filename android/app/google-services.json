@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613468850287",
+    "project_id": "uzum-4672c",
+    "storage_bucket": "uzum-4672c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613468850287:android:3f96747621924522c9e59a",
+        "android_client_info": {
+          "package_name": "com.example.uzum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4MqZWX855A4KAs44HNhRM6A7zFqB10Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
